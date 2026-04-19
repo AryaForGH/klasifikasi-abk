@@ -39,17 +39,50 @@ st.markdown("""
 strategi = {
     "RENDAH": """
 🔴 Strategi Akademik:
-Memberikan pendampingan lebih intensif pada kelompok rendah. Seperti lebih sering diberi perhatian dan lebih dekat dengan guru.
+Memberikan pendampingan lebih intensif pada kelompok rendah, seperti perhatian lebih dan pendekatan personal dari guru.
+
+📘 Strategi Berdasarkan Gaya Belajar:
+
+🎨 Visual:
+Gunakan gambar, video, warna, diagram, dan mind mapping agar materi lebih mudah dipahami.
+
+🎧 Auditori:
+Berikan penjelasan lisan yang sederhana dan berulang, diskusi ringan, serta tanya jawab.
+
+🤸 Kinestetik:
+Libatkan dalam aktivitas langsung seperti praktik sederhana, permainan edukatif, dan belajar sambil bergerak.
 """,
 
     "SEDANG": """
 🟡 Strategi Akademik:
-Memberikan latihan bertahan pada kelompok sedang. Seperti pembelajaran berjenjang dari yang paling mudah ke yang lebih sulit.
+Memberikan latihan bertahap pada kelompok sedang, dari materi yang mudah ke yang lebih kompleks.
+
+📘 Strategi Berdasarkan Gaya Belajar:
+
+🎨 Visual:
+Gunakan infografis, diagram alur, dan catatan berwarna untuk membantu memahami konsep yang lebih kompleks.
+
+🎧 Auditori:
+Dorong diskusi kelompok, presentasi, dan penjelasan ulang materi dengan kata-kata sendiri.
+
+🤸 Kinestetik:
+Gunakan metode praktik, eksperimen, dan simulasi agar pemahaman semakin kuat.
 """,
 
     "TINGGI": """
 🟢 Strategi Akademik:
-Memberikan pengayaan pada kelompok tinggi. Seperti diberi tantangan tambahan.
+Memberikan pengayaan dan tantangan tambahan pada kelompok tinggi agar potensi berkembang maksimal.
+
+📘 Strategi Berdasarkan Gaya Belajar:
+
+🎨 Visual:
+Berikan tugas proyek seperti membuat mind map kompleks, presentasi visual, atau desain konsep.
+
+🎧 Auditori:
+Dorong debat, presentasi, dan menjelaskan materi kepada teman lain (peer teaching).
+
+🤸 Kinestetik:
+Libatkan dalam proyek nyata, eksperimen lanjutan, atau kegiatan berbasis problem solving.
 """
 }
 
